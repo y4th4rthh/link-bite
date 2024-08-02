@@ -19,7 +19,6 @@ This chat application is implemented in Python using `tkinter` for the graphical
 
 Clone the repository to your local machine:
 
-```bash
 git clone <repository-url>
 cd chat_app
 
