@@ -1,4 +1,4 @@
-# link-bite
+# qwik-chat
 
 This chat application is implemented in Python using `tkinter` for the graphical user interface (GUI). It demonstrates a basic chat system where two instances can communicate with each other over a network. One instance acts as `Chat-1` (server) and the other as `Chat-2` (client).
 
